@@ -28,6 +28,7 @@
 }
 .image-radio-checked .glyphicon {
   display: block !important;
+  visibility: visible !important;
 }
 
 
@@ -56,4 +57,5 @@
 }
 .image-checkbox-checked .glyphicon {
   display: block !important;
+  visibility: visible !important;
 }
