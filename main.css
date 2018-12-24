@@ -1,3 +1,8 @@
+.nopad {
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+
 .image-radio {
   cursor: pointer;
   box-sizing: border-box;
