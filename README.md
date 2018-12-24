@@ -1,6 +1,6 @@
 # coppersulphate
 - a bootstrap 4 site
-- hosted on [github pages](https://andrewfandrew.coppersulphate.github.io)
+- hosted on [github pages](https://andrewfandrew.github.io/coppersulphate/)
 - the images used are hosted here in another repo
 - the replacement is done using a jquery script
 
