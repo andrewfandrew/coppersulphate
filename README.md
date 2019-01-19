@@ -12,3 +12,7 @@ After testing it here i intend to duplicate this on on a drupal site.
 ### bootstrap3.3.7
 - This uses Bootstrap version 3.3.7
 - It uses glyphicons which are not available in Bootstrap version 4.x
+
+## Notes
+- The forms do not work on submission because github pages only permit static content
+- This repository is to test the frontend design
