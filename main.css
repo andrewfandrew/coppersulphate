@@ -18,7 +18,7 @@
 .image-radio-checked {
     border-color: #4783B0;
 }
-.image-radio .glyphicon {
+.image-radio .fas {
   position: absolute;
   color: #4A79A3;
   background-color: #fff;
@@ -26,7 +26,7 @@
   top: 0;
   right: 0;
 }
-.image-radio-checked .glyphicon {
+.image-radio-checked .fas {
   display: block !important;
   visibility: visible !important;
 }
@@ -47,7 +47,7 @@
 .image-checkbox-checked {
     border-color: #4783B0;
 }
-.image-checkbox .glyphicon {
+.image-checkbox .fas {
   position: absolute;
   color: #4A79A3;
   background-color: #fff;
@@ -55,7 +55,7 @@
   top: 0;
   right: 0;
 }
-.image-checkbox-checked .glyphicon {
+.image-checkbox-checked .fas {
   display: block !important;
   visibility: visible !important;
 }
